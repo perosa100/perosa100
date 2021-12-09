@@ -1,5 +1,5 @@
 ### 👋 **Salve, me chamo Patrick Perosa**
-Sou desenvolvedor fullstack especializado em backend com NodeJs, Typescript e trabalho com: PostgresSql, TypeORM, React, NextJS, React Native, Graphql, Prisma, testes de Unidade e Integração utilizando o Jest. Tenho conhecimento em processos da experiência do usuário e desenvolvimento de produtos, tenho algumas certificados de cursos que completei. Procuro sempre estar lendo e me atualizando das tecnologias.
+Sou desenvolvedor fullstack especializado em backend com NodeJs, Typescript e trabalho com: PostgresSql, TypeORM, React, NextJS, React Native, Graphql, Prisma, testes de Unidade e Integração utilizando o Jest. Tenho conhecimento em processos da experiência do usuário e desenvolvimento de produtos. Procuro sempre estar lendo e me atualizando das tecnologias.
 
 | ![Estatísticas do github de Patrick Perosa](https://github-readme-stats.vercel.app/api?username=perosa100&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perosa100&hide=java&layout=compact&locale=pt-br) |
 | ------- | -------------------- |
